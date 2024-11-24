@@ -23,8 +23,8 @@ setup(
             'mpai-generate-code=code_generation.transformer_based_codegen:main'
         ]
     },
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Travis Kaus',
+    author_email='kausindustries@gmail.com',
     description='The Manhattan Project for AI: A Fully Autonomous AI Model and System.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
