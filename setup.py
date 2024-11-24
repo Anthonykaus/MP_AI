@@ -21,6 +21,8 @@ setup(
         'console_scripts': [
             'mpai-train=training.local_training_pipeline:main',
             'mpai-generate-code=code_generation.transformer_based_codegen:main'
+            'manhattan-project=utils.cli:main'
+            'manhattan-project=training.train:main'
         ]
     },
     author='Travis Kaus',
