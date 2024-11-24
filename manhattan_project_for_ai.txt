@@ -1,0 +1,37 @@
+manhattan_project_for_ai/
+├── architecture/
+│   ├── __init__.py
+│   ├── classical_networks.py
+│   ├── quantum_circuits.py
+│   ├── spiking_neural_networks.py
+│   └── hybrid_models.py
+├── code_generation/
+│   ├── __init__.py
+│   ├── transformer_based_codegen.py
+│   ├── genetic_programming.py
+│   ├── reinforcement_learning.py
+│   └── recursive_self_improvement.py
+├── training/
+│   ├── __init__.py
+│   ├── local_training_pipeline.py
+│   ├── distributed_computation.py
+│   ├── memory_optimization.py
+│   └── energy_efficiency.py
+├── utils/
+│   ├── __init__.py
+│   ├── data_preprocessing.py
+│   ├── hardware_management.py
+│   └── logging_utils.py
+├── tests/
+│   ├── test_architecture.py
+│   ├── test_code_generation.py
+│   ├── test_training.py
+│   └── test_utils.py
+├── examples/
+│   ├── image_classification_example.py
+│   ├── nlp_example.py
+│   └── reinforcement_learning_example.py
+├── setup.py
+├── README.md
+├── CONTRIBUTING.md
+└── .gitignore
