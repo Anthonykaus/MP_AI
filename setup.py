@@ -28,7 +28,7 @@ setup(
     description='The Manhattan Project for AI: A Fully Autonomous AI Model and System.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/manhattan_project_for_ai',
+    url='https://github.com/Anthonykaus/manhattan_project_for_ai.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
